@@ -1,4 +1,4 @@
-# mini_app
+# Math Quiz
 
 > A Vue.js project
 
